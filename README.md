@@ -54,7 +54,7 @@
 <div align="center">
 <p>I am always open to discussing Android development, new projects, or opportunities.</p>
 
-<a href="https://www.linkedin.com/in/aleksander-lyskawa-79a2b1271">
+<a href="https://www.linkedin.com/in/lyskawa">
 <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45" />
 </a>
 </div>
