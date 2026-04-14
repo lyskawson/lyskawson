@@ -7,7 +7,7 @@
 <br/>
 <div align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=android,kotlin,java,py,gradle,git,github,latex,firebase,idea,android,androidstudio,pytorch,sklearn,tensorFlow"/>
+<img src="https://skillicons.dev/icons?i=kotlin,py,cpp,git,github,latex,firebase,idea,androidstudio,gradle,pytorch,sklearn,tensorFlow"/>
 </a>
 </div>
 
