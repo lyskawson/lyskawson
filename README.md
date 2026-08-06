@@ -1,11 +1,11 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Special+Gothic+Expanded+One&size=30&letterSpacing=4px&center=true&vCenter=true&duration=4000&pause=1000&color=ffcc00&width=750&height=75&lines=Hello,+my+name+is+Alek!+;Android+Developer+%F0%9F%93%B1;AI/ML++enthusiast+%F0%9F%A4%96" />
+    <img src="https://readme-typing-svg.demolab.com?font=Special+Gothic+Expanded+One&size=30&letterSpacing=4px&center=true&vCenter=true&duration=4000&pause=1000&color=ffcc00&width=750&height=75&lines=Hello,+my+name+is+Alek!+;Android+Developer+%F0%9F%93%B1;AI/ML++enthusiast+%F0%9F%A4%96" />
 </h1>
 
 
-<h2 align="center">⚒️ Languages & Tools ⚒️</h2>
-<br/>
-<div align="center">
+## Core Stack
+
+### Languages & Tools
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
@@ -14,30 +14,20 @@
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-000000?style=for-the-badge&logo=latex&logoColor=white)
 
-</div>
-<br/>
-
-<h2 align="center">📱 Android Development 📱</h2>
-<br/>
-<div align="center">
+### Android Development
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-000000?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Material Design 3](https://img.shields.io/badge/Material%20Design%203-000000?style=for-the-badge&logo=materialdesign&logoColor=white)
-![Hilt](https://img.shields.io/badge/Hilt-000000?style=for-the-badge&logo=android&logoColor=white)
-![Room](https://img.shields.io/badge/Room-000000?style=for-the-badge&logo=android&logoColor=white)
-![Retrofit](https://img.shields.io/badge/Retrofit-000000?style=for-the-badge&logo=android&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt-000000?style=for-the-badge)
+![Room](https://img.shields.io/badge/Room-000000?style=for-the-badge)
+![Retrofit](https://img.shields.io/badge/Retrofit-000000?style=for-the-badge&logo=square&logoColor=white)
 ![Coroutines](https://img.shields.io/badge/Coroutines-000000?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Flow](https://img.shields.io/badge/Flow-000000?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-000000?style=for-the-badge&logo=gradle&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white)
 
-</div>
-<br/>
-
-<h2 align="center">🤖 Machine Learning 🤖</h2>
-<br/>
-<div align="center">
+### Machine Learning
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-000000?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -46,11 +36,10 @@
 ![ONNX Runtime](https://img.shields.io/badge/ONNX%20Runtime-000000?style=for-the-badge&logo=onnx&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Roboflow](https://img.shields.io/badge/Roboflow-000000?style=for-the-badge&logo=roboflow&logoColor=white)
 
-</div>
 <br/>
 
 
@@ -96,7 +85,7 @@
 <p>I am always open to discussing Android development, new projects, or opportunities.</p>
 
 <a href="https://www.linkedin.com/in/lyskawa">
-<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45" />
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-ffcc00?style=for-the-badge&labelColor=ffcc00&color=ffcc00" height="45" />
 </a>
 </div>
 <br/>
