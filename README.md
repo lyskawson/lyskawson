@@ -40,22 +40,17 @@
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Roboflow](https://img.shields.io/badge/Roboflow-000000?style=for-the-badge&logo=roboflow&logoColor=white)
 
-<br/>
+## Published Apps
 
-
-
-<h2 align="center">🚀 Published Apps 🚀</h2>
-
-<div align="center">
 <table border="0">
 <tr>
 <td width="150" align="center" valign="middle">
-<img src="https://play-lh.googleusercontent.com/-GUMA5t20C6Qzhw9xbtYdTBE2Cqd5IRF37sVNApHXdRZiLwHIHJIASbu72Mc-DrnD8I=w480-h960" width="100" style="border-radius: 20px;" alt="Weigh In Icon"/>
+<img src="https://play-lh.googleusercontent.com/-GUMA5t20C6Qzhw9xbtYdTBE2Cqd5IRF37sVNApHXdRZiLwHIHJIASbu72Mc-DrnD8I=w480-h960" width="100" alt="Weigh In Icon"/>
 </td>
 <td valign="middle">
-<h3 style="margin-bottom: 0;">Weigh In</h3>
+<h3>Weigh In</h3>
 <p>A comprehensive weight tracking application to help you monitor your progress.</p>
-<a href="https://play.google.com/store/apps/details?id=com.aleksanderlyskawa.myweighttracker&pcampaignid=web_share" target="_blank">
+<a href="https://play.google.com/store/apps/details?id=com.aleksanderlyskawa.myweighttracker&pcampaignid=web_share">
 <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="60"/>
 </a>
 </td>
@@ -63,29 +58,22 @@
 <tr><td colspan="2" height="20"></td></tr>
 <tr>
 <td width="150" align="center" valign="middle">
-<img src="https://play-lh.googleusercontent.com/d2ylguiVFYe9hFYF4CWyeDdy2e96zje2lu1KxKyYURuUjORvhLM8Kmn3-rheyU6o_yWDSotJIY-WNA4EPKtclw=w480-h960" width="100" style="border-radius: 20px;" alt="WiFi Meter Icon"/>
+<img src="https://play-lh.googleusercontent.com/d2ylguiVFYe9hFYF4CWyeDdy2e96zje2lu1KxKyYURuUjORvhLM8Kmn3-rheyU6o_yWDSotJIY-WNA4EPKtclw=w480-h960" width="100" alt="WiFi Meter Icon"/>
 </td>
 <td valign="middle">
-<h3 style="margin-bottom: 0;">WiFi Meter</h3>
+<h3>WiFi Meter</h3>
 <p>Analyze, monitor, and optimize your WiFi signal strength in real-time.</p>
-<a href="https://play.google.com/store/apps/details?id=com.aleksanderlyskawa.wifimeter&pcampaignid=web_share" target="_blank">
+<a href="https://play.google.com/store/apps/details?id=com.aleksanderlyskawa.wifimeter&pcampaignid=web_share">
 <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="60"/>
 </a>
 </td>
 </tr>
 </table>
-</div>
 
-<br/>
-<br/>
+## Let's Connect
 
-<h2 align="center">📬 Let's Connect! 📬</h2>
-
-<div align="center">
-<p>I am always open to discussing Android development, new projects, or opportunities.</p>
+I am always open to discussing Android development, new projects, or opportunities.
 
 <a href="https://www.linkedin.com/in/lyskawa">
 <img src="https://img.shields.io/badge/Connect_on_LinkedIn-ffcc00?style=for-the-badge&labelColor=ffcc00&color=ffcc00" height="45" />
 </a>
-</div>
-<br/>
