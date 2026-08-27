@@ -45,6 +45,20 @@
 <table border="0">
 <tr>
 <td width="150" align="center" valign="middle">
+<!-- TODO: podmień na prawdziwy URL ikony z Play, gdy listing będzie publiczny -->
+<img src="https://play-lh.googleusercontent.com/PLACEHOLDER=w480-h960" width="100" alt="Wobler Icon"/>
+</td>
+<td valign="middle">
+<h3>Wobler — Fish Bite Forecast</h3>
+<p>Hourly bite forecast and fishing weather, an offline catch log, and on-device fish recognition from a photo.</p>
+<a href="https://play.google.com/store/apps/details?id=com.aleksanderlyskawa.fish&pcampaignid=web_share">
+<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="60"/>
+</a>
+</td>
+</tr>
+<tr><td colspan="2" height="20"></td></tr>
+<tr>
+<td width="150" align="center" valign="middle">
 <img src="https://play-lh.googleusercontent.com/-GUMA5t20C6Qzhw9xbtYdTBE2Cqd5IRF37sVNApHXdRZiLwHIHJIASbu72Mc-DrnD8I=w480-h960" width="100" alt="Weigh In Icon"/>
 </td>
 <td valign="middle">
