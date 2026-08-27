@@ -50,7 +50,7 @@
 </td>
 <td valign="middle">
 <h3>Wobler — Fish Bite Forecast</h3>
-<p>Hourly bite forecast and fishing weather, an offline catch log, and on-device fish recognition from a photo.</p>
+<p>Hourly bite forecast and fishing weather, catch log, and on-device fish recognition.</p>
 <a href="https://play.google.com/store/apps/details?id=com.aleksanderlyskawa.fish&pcampaignid=web_share">
 <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="60"/>
 </a>
