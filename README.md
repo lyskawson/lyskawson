@@ -45,8 +45,7 @@
 <table border="0">
 <tr>
 <td width="150" align="center" valign="middle">
-<!-- TODO: podmień na prawdziwy URL ikony z Play, gdy listing będzie publiczny -->
-<img src="https://play-lh.googleusercontent.com/PLACEHOLDER=w480-h960" width="100" alt="Wobler Icon"/>
+<img src="https://play-lh.googleusercontent.com/rzwRRBGZDBu7m6S2hV8JmlxPtVNsBBrF6l1mz8rn7mAur6ZFAuScDoqeSXoaIZpGfGjxb3hL6VZVtFNoiwCcMA=w480-h960" width="100" alt="Wobler Icon"/>
 </td>
 <td valign="middle">
 <h3>Wobler — Fish Bite Forecast</h3>
